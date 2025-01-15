@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ERNI Philippines
+- 🔭 I’m currently working on Design and front-end development refreshers
 - 🌱 I’m currently learning Git
 - 👯 I’m looking to collaborate on ERNI Philippines
 - 🤔 I’m looking for help with Back-end development
